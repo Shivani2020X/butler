@@ -1,0 +1,1 @@
+include ':app', ':flatbuffers-java-1.11.0'
